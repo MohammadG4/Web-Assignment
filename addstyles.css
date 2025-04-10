@@ -40,7 +40,7 @@ input, select, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: #FF7622;
     color: white;
     cursor: pointer;
     margin-top: 15px;
@@ -49,5 +49,5 @@ button {
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #e65d00;
 }
