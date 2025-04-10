@@ -92,7 +92,7 @@ ul li button:hover {
 button[type="submit"] {
     margin-top: 15px;
     padding: 10px;
-    background: #007bff;
+    background: #FF7622;
     color: white;
     border: none;
     border-radius: 5px;
@@ -100,7 +100,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background: #0056b3;
+    background: #e65d00;
 }
 
 .delete-btn {
